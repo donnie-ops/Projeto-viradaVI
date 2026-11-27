@@ -1,8 +1,8 @@
-Virada
+# Virada
 
 Runtime experimental de compatibilidade com Xbox Series para Windows x64. O Virada traduz comandos gráficos do console para Direct3D 12 e é baseado no DexNom RayTime e no VIctory.
 
-[Ver código-fonte no GitHub](https://github.com/donnie-ops/viradaVI)
+[Ver código-fonte no GitHub](https://github.com/donnie-ops/Projeto-viradaVI)
 
 ## Teste na GTX 1650
 
@@ -17,4 +17,4 @@ O desbloqueio do limite do runtime passou dos 30 FPS em cenas leves. Em 14 amost
 
 ## Instalação
 
-O projeto é distribuído como código-fonte sob a licença GPL-3.0-or-later. A compilação usa Rust e Visual Studio Build Tools no Windows. Siga as instruções no [README do repositório](https://github.com/donnie-ops/viradaVI#readme) e use sua própria instalação do jogo.
+O projeto é distribuído como código-fonte sob a licença GPL-3.0-or-later. A compilação usa Rust e Visual Studio Build Tools no Windows. Siga as [instruções de instalação no README](https://github.com/donnie-ops/Projeto-viradaVI#instalação) e use sua própria instalação do jogo.
