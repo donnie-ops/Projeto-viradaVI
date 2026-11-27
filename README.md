@@ -1,6 +1,8 @@
 
 # Projeto Virada VI
-
+<p align="center">
+  <img src="./banner.gif" width="100%" alt="Projeto Virada VI">
+</p>
 ![Plataforma](https://img.shields.io/badge/Plataforma-Windows%2011-blue)
 ![GPU](https://img.shields.io/badge/GPU-GTX%201650-76B900)
 ![Status](https://img.shields.io/badge/Status-Experimental-orange)
